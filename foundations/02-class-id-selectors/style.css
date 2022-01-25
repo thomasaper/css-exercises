@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(254, 44, 84, 0.3);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#font {
+    color: rgba(0, 0, 254);
+    font-size: 36px;
+}
+
+.odd.extra {
+    font-size: 24px;
+} 
+
+#second {
+    background-color: rgba(57, 255, 20, 1);
+    font-size: 24px;
+    font-weight: 700;
+}
